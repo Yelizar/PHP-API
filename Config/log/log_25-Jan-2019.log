@@ -1,0 +1,36 @@
+ . - January 25, 2019, 2:48 am
+User: 101.100.11.34 --------- API - /Api/Call/price_list.php
+Method - GET
+Attempt: Success
+User Name: Yelizar.Huryn@gmail.com
+-------------------------
+ . - January 25, 2019, 2:48 am
+User: 101.100.11.34 --------- API - /Api/Call/product.php?id=13
+Method - GET
+Attempt: Failed:  Not found  Product does not exit or not available in your region
+User Name: Yelizar.Huryn@gmail.com
+-------------------------
+ . - January 25, 2019, 2:48 am
+User: 101.100.11.34 --------- API - /Api/Call/product.php?id=2
+Method - GET
+Attempt: Success
+User Name: Yelizar.Huryn@gmail.com
+-------------------------
+ . - January 25, 2019, 2:48 am
+User: 101.100.11.34 --------- API - /Api/Call/order.php
+Method - POST
+Attempt: Success
+User Name: Yelizar.Huryn@gmail.com
+-------------------------
+ . - January 25, 2019, 2:48 am
+User: 101.100.11.34 --------- API - /Api/Call/order_list.php
+Method - GET
+Attempt: Success
+User Name: Yelizar.Huryn@gmail.com
+-------------------------
+ . - January 25, 2019, 2:49 am
+User: 101.100.11.34 --------- API - /Api/Call/price_list.php
+Method - GET
+Attempt: Success
+User Name: Yelizar.Huryn@gmail.com
+-------------------------
