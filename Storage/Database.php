@@ -9,7 +9,7 @@ class Database
     private static $host = 'localhost';
     private static $db_name = 'tetramap_live';
     private static $username = 'aspire2';
-    private static $password = '@rangit0t0@';
+    private static $password = 'PASSWORD';
     private static $instance = null;
 
     /**
